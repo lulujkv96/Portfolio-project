@@ -1,0 +1,23 @@
+h1.head {
+  font-family: "Neonderthaw", cursive;
+  font-size: 98px;
+  color: rgb(250, 236, 238);
+  text-align: center;
+}
+body.color {
+  background-image: url("/media/bkg.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-color: #eac3cb;
+  background-position: center;
+}
+.navbar {
+  font-family: "Sansita Swashed", cursive;
+}
+a.navbar-brand,
+a.nav-link {
+  color: white;
+}
+.navbar-toggler {
+  color: white;
+}
